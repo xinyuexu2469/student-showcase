@@ -65,15 +65,35 @@ async function main() {
     }
 
     if (data.projectImage) {
-      // Expect leading /images/...
-      if (!data.projectImage.startsWith('/images/')) {
+      // Should be just a filename, no slashes or paths
+      if (data.projectImage.includes('/') || data.projectImage.includes('\\')) {
         hasErrors = true;
-        console.log(` - projectImage should start with '/images/' (got '${data.projectImage}')`);
+        console.log(` - projectImage should be a filename only, no path (got '${data.projectImage}')`);
       } else {
-        const imgPath = path.join(publicImagesDir, data.projectImage.replace('/images/', ''));
+        const imgPath = path.join(publicImagesDir, data.projectImage);
         if (!fs.existsSync(imgPath)) {
           hasErrors = true;
-          console.log(` - image not found at public${data.projectImage}`);
+          console.log(` - image not found at public/images/${data.projectImage}`);
+        } else {
+          const stat = fs.statSync(imgPath);
+          const maxBytes = 800 * 1024; // 800KB
+          if (stat.size > maxBytes) {
+            hasErrors = true;
+            console.log(` - image is large (${Math.round(stat.size/1024)}KB). Please keep < 800KB.`);
+          }
+        }
+      }
+    }
+
+    if (data.studentPhoto) {
+      if (data.studentPhoto.includes('/') || data.studentPhoto.includes('\\')) {
+        hasErrors = true;
+        console.log(` - studentPhoto should be a filename only, no path (got '${data.studentPhoto}')`);
+      } else {
+        const imgPath = path.join(publicImagesDir, data.studentPhoto);
+        if (!fs.existsSync(imgPath)) {
+          hasErrors = true;
+          console.log(` - image not found at public/images/${data.studentPhoto}`);
         } else {
           const stat = fs.statSync(imgPath);
           const maxBytes = 800 * 1024; // 800KB
