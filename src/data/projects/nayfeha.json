@@ -1,0 +1,13 @@
+{
+"studentName": "Ali Nayfeh",
+"projectTitle": "Fantasy Soccer",
+"description": "A simple Fantasy Soccer game that can be played among friends.",
+"projectType": ["Web App", "API/Backend"],
+"projectUrl": "https://final-project-nayfeha.onrender.com",
+"githubUrl": "https://github.com/nayfeha/final-project-nayfeha",
+"projectImage": "fantasysoccer.jpg",
+"tags": ["TypeScript", "React", "Soccer"],
+"reflections": "I'm proud of how I was able to implement teams based off of real soccer teams and real players, displaying them graphically.",
+"studentPhoto": "placeholder.svg",
+"videoUrl": "https://youtube.com/watch?v=..."
+}

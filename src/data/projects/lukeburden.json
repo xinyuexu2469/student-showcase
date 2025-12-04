@@ -1,0 +1,12 @@
+
+{
+  "studentName": "Luke Burden",
+  "projectTitle": "Fitness & Nutrition Coach",
+  "description": "An app to coach fitness and nutrition all-in-one: calculates BMR/TDEE, suggests macros and workouts, and offers optional LLM coaching with moderation and admin auditing.",
+  "projectType": ["Web App"],
+  "githubUrl": "https://github.com/umsi211F2025/final-project-lukeburd",
+  "projectImage": "",
+  "tags": ["React", "Node.js", "Express", "SQLite", "LLM"],
+  "reflections": "Built a compact full-stack MVP focusing on practical coaching and safety-aware LLM auditing.",
+  "studentPhoto": ""
+}
