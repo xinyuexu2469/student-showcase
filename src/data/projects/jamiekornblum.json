@@ -5,9 +5,9 @@
   "projectType": ["Web App"],
   "projectUrl": "https://internship-tracker-jamiekornblum.onrender.com",
   "githubUrl": "https://github.com/jamiekornblum/final-project-jamiekornblum",
-  "projectImage": "",
+  "projectImage": "jamie-project.png",
   "tags": ["React", "Node.js"],
   "reflections": "I am proud that I was able to deploy the app, implement login, and build a practical tool that helps me manage my internship search.",
-  "studentPhoto": "",
-  "videoUrl": "https://example.com/video"
+  "studentPhoto": "jamie-picture.jpg",
+  "videoUrl": "https://www.loom.com/share/b8ce03933f164cbc8d0a4e6030f43f9f"
 }

@@ -76,10 +76,10 @@ async function main() {
           console.log(` - image not found at public/images/${data.projectImage}`);
         } else {
           const stat = fs.statSync(imgPath);
-          const maxBytes = 800 * 1024; // 800KB
+          const maxBytes = 10 * 1024 * 1024; // 10MB
           if (stat.size > maxBytes) {
             hasErrors = true;
-            console.log(` - image is large (${Math.round(stat.size/1024)}KB). Please keep < 800KB.`);
+            console.log(` - image is large (${Math.round(stat.size/1024/1024 * 10) / 10}MB). Please keep < 10MB.`);
           }
         }
       }
@@ -96,10 +96,10 @@ async function main() {
           console.log(` - image not found at public/images/${data.studentPhoto}`);
         } else {
           const stat = fs.statSync(imgPath);
-          const maxBytes = 800 * 1024; // 800KB
+          const maxBytes = 10 * 1024 * 1024; // 10MB
           if (stat.size > maxBytes) {
             hasErrors = true;
-            console.log(` - image is large (${Math.round(stat.size/1024)}KB). Please keep < 800KB.`);
+            console.log(` - image is large (${Math.round(stat.size/1024/1024 * 10) / 10}MB). Please keep < 10MB.`);
           }
         }
       }

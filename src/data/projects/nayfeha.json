@@ -3,11 +3,11 @@
 "projectTitle": "Fantasy Soccer",
 "description": "A simple Fantasy Soccer game that can be played among friends.",
 "projectType": ["Web App", "API/Backend"],
-"projectUrl": "https://final-project-nayfeha.onrender.com",
+"projectUrl": "https://final-project-nayfeha-frontend.onrender.com",
 "githubUrl": "https://github.com/nayfeha/final-project-nayfeha",
 "projectImage": "fantasysoccer.jpg",
 "tags": ["TypeScript", "React", "Soccer"],
 "reflections": "I'm proud of how I was able to implement teams based off of real soccer teams and real players, displaying them graphically.",
-"studentPhoto": "placeholder.svg",
-"videoUrl": "https://youtube.com/watch?v=..."
+"studentPhoto": "Default_pfp.jpg",
+"videoUrl": "https://www.loom.com/share/fbcac8f7331e4fc0901fdd40f1d57e45"
 }
