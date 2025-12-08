@@ -1,0 +1,12 @@
+{
+  "studentName": "Xinyue (Alice) Xu",
+  "projectTitle": "Umich Study Spaces Explorer",
+  "description": "This group web app, Umich Study Spaces Explorer, was built by Team: Victoria Maglaras coordinated meetings, communication; Joshua Peoples and Audrey Lui basically analyzed the student survey and conducted field observations of study spaces; Dapeng Wang acted as scribe/communications lead and implemented the backend database, API, and reservation integration; and I (Xinyue “Alice” Xu) wrote the initial project proposal, designed the overall project plan, the 5-dimension evaluation framework and user questionnaire, and built the React frontend interface and account setup.",
+  "projectType": ["Web App"],
+  "projectUrl": "https://umich-study-backend.onrender.com/",
+  "githubUrl": "https://github.com/CDPhoenix/UmichStudySpaces",
+  "projectImage": "alice-study.jpg",
+  "tags": ["React", "TypeScript", "Express", "PostgreSQL", "Tailwind CSS", "Clerk", "Neon"],
+  "reflections": "I drafted our project proposal, designed the 5-dimension evaluation framework, and built the frontend interface and account system, which taught me how to translate user research into a focused, production-ready web experience.",
+  "studentPhoto": "alice-photo.jpg"
+}

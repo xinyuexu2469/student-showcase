@@ -1,0 +1,12 @@
+{
+  "studentName": "Xinyue (Alice) Xu",
+  "projectTitle": "Lumina Encounters Archive",
+  "description": "A warm, privacy-first relationship and memory management web app that lets users create rich profiles for important people, attach stories, photos, chat logs, and timelines, and revisit key moments—fully bilingual (Chinese/English) and stored locally in the browser via IndexedDB.",
+  "projectType": ["Web App"],
+  "projectUrl": "https://xinyuexu2469.github.io/lumina-gallery/",
+  "githubUrl": "https://github.com/xinyuexu2469/lumina-gallery",
+  "projectImage": "alice-lumina.jpg",
+  "tags": ["HTML5", "CSS3", "Vanilla JavaScript", "IndexedDB", "localStorage", "Product Design"],
+  "reflections": "I independently designed and developed Lumina from end to end—including user pain-point analysis, information architecture, visual and interaction design, and an IndexedDB-based storage/backup system—and also mapped out future AI features (emotion analysis, relationship summaries, intelligent reminders) to demonstrate full-stack product thinking for AI-powered personal relationship tools.",
+  "studentPhoto": "alice-photo.jpg"
+}

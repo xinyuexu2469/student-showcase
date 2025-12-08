@@ -1,0 +1,12 @@
+{
+  "studentName": "Xinyue Xu",
+  "projectTitle": "hexagram-adventure game",
+  "description": "A browser-based interactive narrative game that combines visual point-and-click interactions with classic text commands as players travel through six symbolic rooms exploring courage, freedom, wisdom, creativity, resilience, and love.",
+  "projectType": ["Web App"],
+  "projectUrl": "https://xinyuexu2469.github.io/hexagram-animation/",
+  "githubUrl": "https://github.com/xinyuexu2469/hexagram-animation",
+  "projectImage": "alice-game.jpg",
+  "tags": ["HTML5", "CSS3", "JavaScript", "Game Design", "Interactive Fiction"],
+  "reflections": "I designed the narrative world, six symbolic spaces, and dual interaction system (click-based UI + text commands), and implemented the core game logic and visual effects with pure HTML/CSS/JavaScript, which taught me how to balance storytelling depth, accessibility, and responsive interaction in a single-page experience.",
+  "studentPhoto": "alice-photo.jpg"
+}
