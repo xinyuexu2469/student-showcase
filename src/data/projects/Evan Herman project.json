@@ -1,0 +1,13 @@
+{
+  "studentName": "Evan Herman",
+  "projectTitle": "Real Estate Web Scraper",
+  "description": "The scraper uses playwright to click on each profile card on real estate sites and scrap all information like a human would. It cuts out the tedious work for a person and can scrape lots of data very quickly.",
+  "projectType": ["Web App", "Data Visualization"],
+
+  "githubUrl": "https://github.com/umsi211F2025/final-project-evanherm-bit",
+  "projectImage": "Scraper_workflow.png",
+  "tags": ["Playwright", "Python", "BeautifulSoup"],
+  "reflections": "I am proud that I was able to create a functioning web scraper that replaces humans for tedious tasks. This was important to me as I once had to complete this without the help of AI. At the time, I knew AI would have made it much easier, but I didn't know how to implement this. Now I do!",
+  "studentPhoto": "Scraper_workflow.png",
+  "videoUrl": "https://www.youtube.com/watch?v=pZR-ROF3bC8"
+}

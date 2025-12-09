@@ -1,0 +1,13 @@
+{
+"studentName": "MD Uddin",
+"projectTitle": "Traffic Light Simulator",
+"description": "This project is an interactive traffic light simulator that shows how different light timings affect traffic flow. Users can adjust green, yellow, and red durations, change weather, and modify traffic density to see how it impacts efficiency, congestion, and car movement. The system also tracks performance and rewards successful traffic management with achievement cards.",
+"projectType": ["Web App", "Simulation"],
+"projectUrl": "https://final-project-mduddin0.onrender.com/",
+"githubUrl": "https://github.com/mduddin0/final-project-mduddin0/tree/main",
+"projectImage": "placeholder.svg",
+"tags": ["JavaScript", "CSS", "HTML","TailwindCSS"],
+"reflections": "Working on this simulator strengthened my frontend fundamentals: implementing a state machine for signal transitions, managing timer-based updates reliably, and structuring code for clarity. I learned to debug race conditions with setInterval/setTimeout, improve accessibility and keyboard support, and prepare the app for deployment on Render. Next steps are adding vehicle/pedestrian animations, saving custom timing presets, and adding unit tests for the timing logic.",
+"studentPhoto": "silhouette-student.svg",
+"videoUrl": "https://www.youtube.com/watch?v=LC6oZ8RhKUk"
+}

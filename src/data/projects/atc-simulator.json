@@ -4,10 +4,10 @@
 "description": "A radar based Air Traffic Control simulator that focuses on Approach/Departure control for various airports.",
 "projectType": ["Simulation", "Web App"],
 "projectUrl": "https://final-project-areefin-umich.onrender.com",
-"githubUrl": "https://github.com/yourusername/repo",
-"projectImage": "placeholder.svg",
+"githubUrl": "https://github.com/areefin-umich/final-project-areefin-umich",
+"projectImage": "atcradar.jpg",
 "tags": ["React", "Python", "D3.js"],
 "reflections": "I'm proud of getting the simulation running and for the amount of time I put into it. I was also really proud of utilizing puppeteer for debugging and efficiently developing features.",
-"studentPhoto": "placeholder.svg",
-"videoUrl": "https://youtube.com/"
+"studentPhoto": "areefinahmed.jpg",
+"videoUrl": "https://www.youtube.com/watch?v=F-CXYREjSE4"
 }

@@ -1,0 +1,13 @@
+{
+"studentName": "Jonathon Szuba",
+"projectTitle": "Tennis Player Simulation",
+"description": "Create your own tennis player and take them into a grand slam against the best of the best!",
+"projectType": ["Web App"],
+"projectUrl": "https://final-project-jonszuba-frontend.onrender.com",
+"githubUrl": "https://github.com/umsi211F2025/final-project-jonszuba.git",
+"projectImage": "placeholder.svg",
+"tags": ["React", "Python", "Tennis"],
+"reflections": "I learned that if at first you dont succeed, try, try again",
+"studentPhoto": "jon-szuba.jpg",
+"videoUrl": "https://youtube.com/watch?v=..."
+}

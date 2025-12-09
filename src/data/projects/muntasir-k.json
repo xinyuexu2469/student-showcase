@@ -1,13 +1,13 @@
 {
 "studentName": "Muntasir Khalique",
 "projectTitle": "Football Simulator",
-"description": "A browser-based football match simulator with configurable teams and match settings.",
+"description": "A browser-based football match simulator with configurable teams and in-depth tactical setups. Wide variety of formations and tactical nuances.",
 "projectType": ["Web App", "Simulation"],
 "projectUrl": "https://final-project-muntasirk.onrender.com/",
 "githubUrl": "https://github.com/muntasirk/final-project-muntasirk",
-"projectImage": "placeholder.svg",
+"projectImage": "fbsimbanner.png",
 "tags": ["TypeScript", "CSS", "HTML"],
-"reflections": "I'm proud of how the match simulation logic turned out, providing an engaging experience for users. The database of teams and formations adds depth to the simulation. I glad I was able to make a project about something that I am passionate about",
+"reflections": "I'm proud of how the match simulation logic turned out, providing an engaging experience for users. The database of teams and formations adds depth to the simulation, and the tactical systems allow a lot of variance in matches. I'm glad I was able to make a project about something that I am passionate about.",
 "studentPhoto": "silhouette-student.svg",
-"videoUrl": "https://youtube.com/"
+"videoUrl": "https://www.youtube.com/watch?v=LKrFmjv496k"
 }
