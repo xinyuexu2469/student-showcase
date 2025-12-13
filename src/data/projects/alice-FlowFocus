@@ -1,0 +1,27 @@
+{
+  "studentName": "Xinyue (Alice) Xu",
+  "projectTitle": "FlowFocus",
+  "description": "FlowFocus is a student-first planning app designed to turn messy to‑dos into a realistic day plan. It pairs a high-fidelity Google Calendar–style scheduler with a Daily Gantt timeline, so users can drag, resize, and adjust time blocks while keeping tasks, calendar events, and schedules in sync. On top of scheduling, FlowFocus includes three AI assistants—an overall planning assistant, a task breakdown assistant, and a companion-style coach for emotional regulation and practical suggestions—helping users plan clearly, act steadily, and recover quickly when plans change.",
+  "projectType": ["Web App"],
+  "projectUrl": "https://flowfocus-frontend.onrender.com",
+  "githubUrl": "https://github.com/xinyuexu2469/flowfocus",
+  "projectImage": "flowfocus-cover.jpg",
+  "tags": [
+    "React",
+    "TypeScript",
+    "Vite",
+    "Tailwind CSS",
+    "shadcn/ui",
+    "React Router",
+    "Zustand",
+    "TanStack Query",
+    "Clerk Auth",
+    "Node.js",
+    "Express",
+    "PostgreSQL",
+    "Google Calendar API"
+  ],
+  "reflections": "I built FlowFocus to solve a common student pain point: planning feels easy, but sticking to a plan is hard when the day shifts. Instead of forcing users into a single workflow, FlowFocus offers multiple ways to edit the same schedule—task lists, calendar view, and Daily Gantt—so users can plan at the level that matches their mindset. The product experience centers on “always up to date” scheduling: edits in one view stay consistent across others, reducing the cognitive load of re-planning. I then layered in three AI roles—strategic planning, tactical task breakdown, and companion-style guidance—to support both execution and emotional resilience, turning procrastination moments into actionable next steps.",
+  "studentPhoto": "alice-photo.jpg",
+  "videoUrl": "https://youtu.be/yHXxK1KXC94"
+}
